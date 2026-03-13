@@ -13,6 +13,6 @@ public class Inferencia {
 
         var c = "texto";
 
-        System.out.println(c + b);
+        System.out.println(c);
     }
 }
