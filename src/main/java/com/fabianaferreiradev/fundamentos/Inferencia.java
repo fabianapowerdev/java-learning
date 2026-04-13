@@ -1,4 +1,4 @@
-package fundamentos;
+package com.fabianaferreiradev.fundamentos;
 
 public class Inferencia {
     static void main() {

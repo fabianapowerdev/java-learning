@@ -1,4 +1,4 @@
-package fundamentos;
+package com.fabianaferreiradev.fundamentos;
 
 public class DesafioTemperatura {
     static void main() {

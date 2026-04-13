@@ -1,5 +1,5 @@
 
-package fundamentos;
+package com.fabianaferreiradev.fundamentos;
 
 import java.util.Scanner;
 

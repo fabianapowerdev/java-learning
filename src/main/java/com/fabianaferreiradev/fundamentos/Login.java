@@ -42,7 +42,7 @@ public class Login {
 
 // usando encapsulamento
 
-package fundamentos;
+package com.fabianaferreiradev.fundamentos;
 
 import java.util.Scanner;
 

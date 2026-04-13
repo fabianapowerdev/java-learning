@@ -1,4 +1,4 @@
-package fundamentos;
+package com.fabianaferreiradev.fundamentos;
 
 import java.util.ArrayList;
 import java.util.Scanner;
